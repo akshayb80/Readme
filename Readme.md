@@ -8,8 +8,8 @@
 - 📫 How to reach me **apbakshi@hotmail.com**
 - Looking for CS research opportunities in ML / DL
 
-<img src="https://github.com/akshayb80/stats/blob/master/generated/overview.svg" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akshayb80&theme=dracula" />
+<!-- <img src="https://github.com/akshayb80/stats/blob/master/generated/overview.svg" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akshayb80&theme=dracula" /> -->
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=akshayb80&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 
 <br>
