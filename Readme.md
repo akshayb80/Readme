@@ -3,8 +3,7 @@
 [View My Portfolio](https://akshaybakshi.netlify.app/)
 
 - 🍀 Third Year BTech Computer Engineering student.
-- 🌱 Currenly working on Machine Learning & Deep Learning
-- 💬 Ask me about Python
+- 🌱 Currenly exploring in Machine Learning & Deep Learning
 - 📫 How to reach me **apbakshi@hotmail.com**
 - Looking for CS research opportunities in ML / DL
 
